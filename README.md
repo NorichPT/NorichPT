@@ -8,6 +8,5 @@ Olá, meu nome é Frederico Silva e tenho 15 anos. Desde cedo, sempre tive inter
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="phshop" width="45" height="45" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="phshop" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />
 </p>
